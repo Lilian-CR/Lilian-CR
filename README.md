@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lilian-Rodrigues
+- 👋 Hi, I’m @Lilian-CR
 - 👀 I am interested in equality and the well-being of others and myself.
 - 🌱 I’m vegan.
 - 📫 Ask for my e-mail.
