@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Lilian. 👩🏾‍💻
-- Aspiring Web Developer / Full-Stack Student. 💻
+- Aspiring Web and Mobile Developer / Full-Stack Student. 💻
 - I am interested in equality and the well-being of others and myself. 🌎
 - 🌱 I’m vegan.
 - 📫 Ask for my e-mail.
