@@ -5,7 +5,7 @@
 - 📫 Ask for my e-mail.
 - Pronouns: she/her
 - HTML, CSS, JAVA-SCRIPT, KOTLIN: ✅ 
-- FRONT END + BACKEND+SWIFT+SCALA: 🔄
+- FRONTEND + BACKEND+SWIFT+SCALA: 🔄
 <!---
 Lilian-CR/Lilian-CR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
