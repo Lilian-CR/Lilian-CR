@@ -35,6 +35,6 @@
 ---
 
 **Pronouns**: she/her  
-✨ Open to collaboration and junior opportunities in Web or Mobile ✨
+✨ Open to collaboration and junior opportunities in Web Development ✨
 
 > _“Code is a tool for change. I'm here to make it meaningful.”_
