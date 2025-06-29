@@ -1,12 +1,40 @@
-- 👋 Hi, my name is Lilian. 👩🏾‍💻
-- Aspiring Web and Mobile Developer / Full-Stack Student. 💻
-- I am interested in equality and the well-being of others and myself. 🌎
-- 🌱 I’m vegan.
-- 📫 Ask for my e-mail.
-- Pronouns: she/her
-- HTML, CSS, JAVA-SCRIPT, KOTLIN: ✅ 
-- FRONTEND + BACKEND + SWIFT: 🔄
-<!---
-Lilian-CR/Lilian-CR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Lilian! 👩🏾‍💻
+
+🎓 Certified **Junior Web Developer** with a Full-Stack foundation  
+📱 Currently learning **Mobile Development** (Android, iOS, React Native + Swift)  
+🌍 Passionate about building inclusive, ethical, and accessible digital experiences
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: HTML5, CSS3, JavaScript (ES6+), Kotlin  
+- **Frameworks & Tools**: React, Next.js, Tailwind CSS, Vite, Git, REST APIs  
+- **Databases**: MongoDB  
+- **Currently Exploring**:  
+  - UI/UX Design (Codecademy)  
+  - Mobile App Development (Android & iOS)  
+  - React Native with Swift integration
+
+---
+
+### 💡 Current Focus
+
+- Crafting responsive, accessible web interfaces  
+- Deepening UX thinking and visual design fundamentals  
+- Expanding into mobile development and cross-platform apps
+
+---
+
+### 📫 Let's Connect
+
+💌 _Email available upon request_  
+🌱 Vegan & driven by values of empathy and equity  
+🎯 Always learning — always building
+
+---
+
+**Pronouns**: she/her  
+✨ Open to collaboration and junior opportunities in Web or Mobile ✨
+
+> _“Code is a tool for change. I'm here to make it meaningful.”_
