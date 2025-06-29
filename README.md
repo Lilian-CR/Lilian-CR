@@ -12,7 +12,7 @@
 - **Frameworks & Tools**: React, Next.js, Tailwind CSS, Vite, Git, REST APIs  
 - **Databases**: MongoDB  
 - **Currently Exploring**:  
-  - UI/UX Design (Codecademy)  
+  - UI/UX Design 
   - Mobile App Development (Android & iOS)  
   - React Native with Swift integration
 
