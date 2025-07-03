@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Lilian! 👩🏾‍💻
+#  Hi, I'm Lilian! 👩🏾‍💻
 
-🎓 Certified **Junior Web Developer** with a Full-Stack foundation  
-📱 Currently learning **Mobile Development** (Android, iOS, React Native + Swift)  
-🌍 Passionate about building inclusive, ethical, and accessible digital experiences
+Certified **Junior Web Developer** with a Full-Stack foundation  
+Currently learning **Mobile Development** (Android, iOS, React Native + Swift)  
+Passionate about building inclusive, ethical, and accessible digital experiences
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 💡 Current Focus
+### Current Focus
 
 - Crafting responsive, accessible web interfaces  
 - Deepening UX thinking and visual design fundamentals  
@@ -26,15 +26,15 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
-💌 _Email available upon request_  
+ _Email available upon request_  
 🌱 Vegan & driven by values of empathy and equity  
-🎯 Always learning — always building
+ Always learning — always building
 
 ---
 
 **Pronouns**: she/her  
-✨ Open to collaboration and junior opportunities in Web Development ✨
+Open to collaboration and junior opportunities in Web Development ✨
 
 > _“Code is a tool for change. I'm here to make it meaningful.”_
