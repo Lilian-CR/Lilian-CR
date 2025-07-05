@@ -1,7 +1,7 @@
 #  Hi, I'm Lilian! 👩🏾‍💻
 
 Certified **Junior Web Developer** with a Full-Stack foundation  
-Currently learning **Mobile Development** (Android, iOS, React Native + Swift)  
+Currently learning **Mobile Development** (Android, Kotlin, iOS, Swift + React Native)  
 Passionate about building inclusive, ethical, and accessible digital experiences
 
 ---
